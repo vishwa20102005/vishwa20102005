@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋 I'm Vishwa
 
-<!--
-**vishwa20102005/vishwa20102005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Azure Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+🚀 About Me
+Learning AI Engineering
+Preparing for DP-203
+Building AI Applications
+Interested in LLMs, Azure AI, and Data Engineering
+🛠 Skills
+Python
+SQL
+Azure
+Machine Learning
+Git & GitHub
+Pandas
+NumPy
+Scikit-learn
+📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ AI-900
+🔄 AI-102
+🔄 DP-203 (In Progress)
+
+📫 Contact
+
+LinkedIn:https://www.linkedin.com/in/vishwa-v-11478b378/
+Email:vishwamkce2023@gmail.com

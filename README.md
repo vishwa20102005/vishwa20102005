@@ -19,7 +19,7 @@ Scikit-learn
 📜 Certifications
 
 ✅ AI-900
-🔄 AI-102
+✅AI-102
 🔄 DP-203 (In Progress)
 
 📫 Contact

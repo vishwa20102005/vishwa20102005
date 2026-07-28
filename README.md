@@ -6,7 +6,7 @@
 
 📍 Tamil Nadu, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/vishwa20102005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/vishwa20102005/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vishwa20102005)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vishwamkce2023@gmail.com)
@@ -140,7 +140,7 @@ I'm actively seeking opportunities as a:
 
 # 🤝 Let's Connect
 
-* 💼 LinkedIn: www.linkedin.com/in/vishwa20102005
+* 💼 LinkedIn: www.linkedin.com/in/vishwa20102005/
 * 🐙 GitHub: https://github.com/vishwa20102005
 * 📧 Email: [vishwamkce2023@gmail.com](mailto:YOUR_EMAIL@gmail.com)
 * 🌐 Portfolio: YOUR_PORTFOLIO_URL

@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋 I'm Vishwa V
 
 <div align="center">
@@ -21,11 +20,11 @@
 
 # 🚀 About Me
 
-I'm a **Final Year Electronics & Communication Engineering (ECE) student** passionate about **Python Development, Artificial Intelligence, Cloud Computing, and Generative AI**.
+I'm a passionate **Final Year Electronics & Communication Engineering (ECE) student** at **M. Kumarasamy College of Engineering, Karur** with a strong interest in **Software Development, Cloud Computing, Artificial Intelligence, and Generative AI**.
 
-I enjoy building real-world applications using **Python, Azure AI, LangChain, Streamlit, and Machine Learning**. I am always eager to learn new technologies, solve challenging problems, and contribute to impactful software projects.
+I enjoy building AI-powered applications using **Python, Azure AI, LangChain, Streamlit, Machine Learning, and RAG**. I'm continuously learning new technologies and solving real-world problems through software.
 
-💼 I'm actively looking for opportunities as:
+💼 **Currently looking for opportunities as:**
 
 - 💻 Software Developer
 - 🐍 Python Developer
@@ -37,7 +36,7 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 # 💻 Tech Stack
 
-### Programming Languages
+## 🖥️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -47,15 +46,15 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 ---
 
-### Frameworks & Libraries
+## ⚛️ Frameworks & Libraries
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-### Database
+## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -63,7 +62,7 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 ---
 
-### Cloud & Tools
+## ☁️ Cloud & Tools
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -74,10 +73,10 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 # 🏆 Certifications
 
-- ✅ Microsoft Azure AI Fundamentals (AI-900)
-- ✅ Microsoft Azure AI Engineer Associate (AI-102)
-- ✅ NPTEL Cloud Computing
-- ✅ TCS CodeVita Global Rank Holder
+- 🎓 Microsoft Azure AI Fundamentals (AI-900)
+- 🎓 Microsoft Azure AI Engineer Associate (AI-102)
+- 🎓 NPTEL Cloud Computing
+- 🏅 TCS CodeVita Global Rank Holder
 
 ---
 
@@ -87,16 +86,18 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 - AI-powered onboarding assistant
 - Multi-PDF RAG chatbot
-- Built using Python, LangChain, Azure AI & Streamlit
+- Built using Python, Azure AI, LangChain, FAISS, and Streamlit
+- Intelligent document search and question answering
 
 ---
 
 ## 🎯 Placement Preparation Portal
 
+- Company-wise interview preparation
 - Coding practice
-- Company-wise interview questions
 - Aptitude tests
 - Student dashboard
+- Performance tracking
 
 ---
 
@@ -106,6 +107,7 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 - OpenCV
 - Python
 - MySQL
+- Automated attendance management
 
 ---
 
@@ -113,7 +115,7 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 - 🤖 Artificial Intelligence
 - 🧠 Generative AI
-- ☁️ Microsoft Azure
+- ☁️ Microsoft Azure Cloud
 - 🐍 Python Development
 - 🌐 Full Stack Development
 - 📊 Machine Learning
@@ -132,6 +134,10 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=vishwa20102005&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwa20102005&theme=tokyonight"/>
 
 </div>
 
@@ -161,9 +167,9 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vishwa20102005/
-- 🐙 GitHub: https://github.com/vishwa20102005
-- 📧 Email: vishwamkce20102005@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vishwa20102005/
+- 🐙 **GitHub:** https://github.com/vishwa20102005
+- 📧 **Email:** vishwamkce20102005@gmail.com
 
 ---
 
@@ -171,17 +177,17 @@ I enjoy building real-world applications using **Python, Azure AI, LangChain, St
 
 > "Learning never stops. Every project is an opportunity to grow."
 
-I enjoy solving coding problems, building AI-powered applications, learning cloud technologies, and contributing to innovative software projects.
+I enjoy building AI-powered applications, solving coding challenges, learning cloud technologies, and contributing to innovative software projects.
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my GitHub Profile!
 
-If you like my work, don't forget to ⭐ my repositories and connect with me.
+If you like my work, consider giving a ⭐ to my repositories and feel free to connect with me.
 
-### Happy Coding! 🚀
+### 🚀 Happy Coding!
 
 </div>
 ```
